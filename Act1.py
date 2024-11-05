@@ -9,7 +9,6 @@ def burbuja(arr):
         if not intercambiado:
             break
 
-# Lista desordenada
 lista_burbuja = [64, 34, 25, 12, 22, 11, 90]
 burbuja(lista_burbuja)
 print("Lista ordenada con burbuja:", lista_burbuja)
